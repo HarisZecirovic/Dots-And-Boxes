@@ -1,0 +1,15 @@
+Kolone 3 
+Redovi 3 
+Potez 1 : Je odigrao crveni igrac
+Potez 4 : Je odigrao plavi igrac
+Potez 8 : Je odigrao crveni igrac
+Potez 5 : Je odigrao plavi igrac
+Potez 2 : Je odigrao plavi igrac
+Potez 6 : Je odigrao crveni igrac
+Potez 9 : Je odigrao plavi igrac
+Potez 12 : Je odigrao plavi igrac
+Potez 15 : Je odigrao crveni igrac
+Potez 18 : Je odigrao plavi igrac
+Potez 14 : Je odigrao crveni igrac
+Potez 17 : Je odigrao plavi igrac
+Potez 21 : Je odigrao crveni igrac
